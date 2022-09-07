@@ -6,7 +6,8 @@ Interface para openweathermap.org API com React e puro CSS sem a utilização de
 
 
 Este é uma demonstração de simplicidade, utilizando os recursos mais leves possíveis com React diretamente no navegador, sem compilação, sem node.js, sem modulos NPM.
-
+<br />
+<br />
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Recursos:
 
