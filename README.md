@@ -10,7 +10,9 @@ Este é uma demonstração de simplicidade, utilizando os recursos mais leves po
 
 Iniciando
 
-Efetue o download do arquivo contendo nomes das cidades em http://bulk.openweathermap.org/sample/city.list.json.gz
+Efetue o download do arquivo contendo nomes das cidades:
+
+$ wget http://bulk.openweathermap.org/sample/city.list.json.gz
 
 descompacte o arquivo:
 
