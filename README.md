@@ -7,10 +7,14 @@ Interface openweathermap.org API using React and pure CSS without npm, webpack, 
 Este é uma demonstração de simplicidade, utilizando os recursos mais leves possíveis com React diretamente no navegador, sem compilação, sem node.js, sem modulos NPM.
 
 
+Efetue download deste repositório diretamente em seu servidor web sem a necessidade de instalar nenhum outro recurso.
 
-Iniciando
+$ git clone  https://github.com/mitgate/react-openweathermap-web.git
 
-Efetue o download do arquivo contendo nomes das cidades:
+
+Caso deseje atualizar a lista de cidades:
+
+Efetue o download do arquivo contendo nomes das cidades.
 
 $ wget http://bulk.openweathermap.org/sample/city.list.json.gz
 
