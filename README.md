@@ -11,11 +11,16 @@ Este é uma demonstração de simplicidade, utilizando os recursos mais leves po
 Recursos:
 
 Campo de “input” para digitar a cidade.
+
 Caixa de resultados que informa local, umidade, condição e temperatura corrente em graus Celsius.
+
 Caso a cidade não esteja na lista do openweathermap, será informado: “Cidade não encontrada”
+
 A cada caractere digitado no campo da cidade atualiza os resultados carregados via json.
+
 Aceita buscas com acento ou sem, letras maiusculas ou minusculas, (caracteres epeciais, ç ã õ ...etc)
 
+Criado React componente para sugerir cidades e autocompletar.
 
 
 Efetue download deste repositório diretamente em seu servidor web sem a necessidade de instalar nenhum outro recurso.
