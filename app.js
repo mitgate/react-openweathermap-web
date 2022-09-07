@@ -91,7 +91,7 @@ class Autocomplete extends React.Component {
             } else {
                 selecoesListComponent = (
                     <div class="sem-selecoes">
-                        <em>Nenhuma Cidade encontrada</em>
+                        <em>Cidade não encontrada</em>
                     </div>
                 );
             }
