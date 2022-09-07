@@ -8,7 +8,7 @@ Interface para openweathermap.org API com React e puro CSS sem a utilização de
 Este é uma demonstração de simplicidade, utilizando os recursos mais leves possíveis com React diretamente no navegador, sem compilação, sem node.js, sem modulos NPM.
 
 
-Recursos:
+<span style="color:orange;">Recursos:</span>
 
 Campo de “input” para digitar a cidade.
 
@@ -28,7 +28,7 @@ Efetue download deste repositório diretamente em seu servidor web sem a necessi
 $ git clone  https://github.com/mitgate/react-openweathermap-web.git
 
 
-Caso deseje atualizar a lista de cidades:
+<b>Caso deseje atualizar a lista de cidades:</
 
 Efetue o download do arquivo contendo nomes das cidades.
 
