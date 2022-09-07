@@ -24,12 +24,14 @@ Este é uma demonstração de simplicidade, utilizando os recursos mais leves po
 
 - Criado React componente para sugerir cidades e autocompletar.
 
+<br />
 
 Efetue download deste repositório diretamente em seu servidor web sem a necessidade de instalar nenhum outro recurso.
 
 $ git clone  https://github.com/mitgate/react-openweathermap-web.git
 
-
+<br />
+<br />
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Caso deseje atualizar a lista de cidades:
 
@@ -45,3 +47,5 @@ O arquivo city.list.json contem cidades do mundo todo, atendidas pelo openwheate
 
 $ cat city.list.json  | jq -c '.[] | select( .country | contains("BR")) | {"name","state","country","coord"}' > data/br_cidades.json
 
+<br />
+<br />
