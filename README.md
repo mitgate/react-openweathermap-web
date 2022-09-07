@@ -7,20 +7,20 @@ Interface para openweathermap.org API com React e puro CSS sem a utilização de
 
 Este é uma demonstração de simplicidade, utilizando os recursos mais leves possíveis com React diretamente no navegador, sem compilação, sem node.js, sem modulos NPM.
 
-[#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Recursos:
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Recursos:
 
 
 - ! Campo de “input” para digitar a cidade.
 
-Caixa de resultados que informa local, umidade, condição e temperatura corrente em graus Celsius.
+- !Caixa de resultados que informa local, umidade, condição e temperatura corrente em graus Celsius.
 
-Caso a cidade não esteja na lista do openweathermap, será informado: “Cidade não encontrada”
+- !Caso a cidade não esteja na lista do openweathermap, será informado: “Cidade não encontrada”
 
-A cada caractere digitado no campo da cidade atualiza os resultados carregados via json.
+- !A cada caractere digitado no campo da cidade atualiza os resultados carregados via json.
 
-Aceita buscas com acento ou sem, letras maiusculas ou minusculas, (caracteres epeciais, ç ã õ ...etc)
+- !Aceita buscas com acento ou sem, letras maiusculas ou minusculas, (caracteres epeciais, ç ã õ ...etc)
 
-Criado React componente para sugerir cidades e autocompletar.
+- !Criado React componente para sugerir cidades e autocompletar.
 
 
 Efetue download deste repositório diretamente em seu servidor web sem a necessidade de instalar nenhum outro recurso.
