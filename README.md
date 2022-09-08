@@ -46,6 +46,9 @@ descompacte o arquivo:
 $ gunzip city.list.json.gz
 
 O arquivo city.list.json contem cidades do mundo todo, atendidas pelo openwheatermap.org, para facilitar, filtraremos as cidades do Brasil no arquivo .json utilizando jq
+$ yum install jq
+or
+$ apt-get install jq
 
 $ cat city.list.json  | jq -c '.[] | select( .country | contains("BR")) | {"name","state","country","coord"}' > data/br_cidades.json
 
