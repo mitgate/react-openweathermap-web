@@ -1,6 +1,6 @@
 # react-openweathermap-web
 
-ENG: Interface to openweathermap.org API using React and pure CSS without npm, webpack, or other components.
+EN: Interface to openweathermap.org API using React and pure CSS without npm, webpack, or other components.
 
 PT_BR: Interface para openweathermap.org API com React e puro CSS sem a utilização de npm ou webpack, ou outros componentes.
 
