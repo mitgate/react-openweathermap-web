@@ -33,6 +33,8 @@ $ git clone  https://github.com/mitgate/react-openweathermap-web.git
 <br />
 <br />
 
+
+
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Caso deseje atualizar a lista de cidades:
 
 Efetue o download do arquivo contendo nomes das cidades.
@@ -49,3 +51,11 @@ $ cat city.list.json  | jq -c '.[] | select( .country | contains("BR")) | {"name
 
 <br />
 <br />
+
+
+
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png)  Demo:
+https://docs.mitgate.com.br/clima/
+
+
+- 
