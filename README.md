@@ -58,4 +58,4 @@ $ cat city.list.json  | jq -c '.[] | select( .country | contains("BR")) | {"name
 https://docs.mitgate.com.br/clima/
 
 
-- 
+
