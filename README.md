@@ -1,8 +1,8 @@
 # react-openweathermap-web
 
-Interface to openweathermap.org API using React and pure CSS without npm, webpack, or other components.
+ENG: Interface to openweathermap.org API using React and pure CSS without npm, webpack, or other components.
 
-Interface para openweathermap.org API com React e puro CSS sem a utilização de npm ou webpack, ou outros componentes.
+PT_BR: Interface para openweathermap.org API com React e puro CSS sem a utilização de npm ou webpack, ou outros componentes.
 
 
 Este é uma demonstração de simplicidade, utilizando os recursos mais leves possíveis com React diretamente no navegador, sem compilação, sem node.js, sem modulos NPM.
